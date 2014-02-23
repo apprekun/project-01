@@ -7,6 +7,8 @@
 
         Console.WriteLine("revisi 02")
 
+        Console.WriteLine("revisi 03")
+
         Console.ReadLine()
     End Sub
 
