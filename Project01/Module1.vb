@@ -5,7 +5,7 @@
 
         Console.WriteLine("Revisi 01")
 
-
+        Console.WriteLine("revisi 02")
 
         Console.ReadLine()
     End Sub
