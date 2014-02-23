@@ -3,6 +3,10 @@
     Sub Main()
         Console.WriteLine("Init")
 
+        Console.WriteLine("Revisi 01")
+
+
+
         Console.ReadLine()
     End Sub
 
